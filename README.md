@@ -1,7 +1,10 @@
+<div align="center">
+
 # Hi, I'm [Mario Lazaro](https://www.linkedin.com/in/marioslazaro/)!
 
 I recently decided that I would leave the civil construction area and transition to the Dev area and I am studying hard to become an excellent back-end developer, I count on your help for this career transition.
 
+ 
 To connect with me, open your terminal and run:
 
 ```bash
