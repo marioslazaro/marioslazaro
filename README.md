@@ -1,6 +1,9 @@
 <div align="center">
 
-# Hi, I'm [Mario Lazaro](https://www.linkedin.com/in/marioslazaro/)!
+# Hi, I'm [Mario](https://www.linkedin.com/in/marioslazaro/)!
+
+
+![mario gif](https://github.com/marioslazaro/marioslazaro/assets/111144236/b1312bd5-4ab4-438c-9d10-0687cd5906dd)
 
 I recently decided that I would leave the civil construction area and transition to the Dev area and I am studying hard to become an excellent back-end developer, I count on your help for this career transition.
 
@@ -14,7 +17,11 @@ npx marioslazaro
 
 
 # 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white)
+
+
+
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="51" height="51" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="51" height="51" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="51" height="51" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="51" height="51" /><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="51" height="51" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="51" height="51" /></div>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=marioslazaro&theme=algolia&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=marioslazaro&theme=algolia&hide_border=false)<br/>
