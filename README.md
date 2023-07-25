@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm [Mario](https://www.linkedin.com/in/marioslazaro/)!
+# Hi, I'm [Mario](https://www.linkedin.com/in/marioslazaro/)! 🍄
 
 
 ![mario gif](https://github.com/marioslazaro/marioslazaro/assets/111144236/b1312bd5-4ab4-438c-9d10-0687cd5906dd)
