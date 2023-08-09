@@ -14,7 +14,7 @@ To connect with me, open your terminal and run:
 npx marioslazaro
 ```
 
-...
+
 
 # 💻 Tech Stack:
 
