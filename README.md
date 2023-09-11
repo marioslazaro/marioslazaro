@@ -23,9 +23,9 @@ npx marioslazaro
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="51" height="51" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="51" height="51" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="51" height="51" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="51" height="51" /><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="51" height="51" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="51" height="51" /></div>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats-gv5l.vercel.app/api?username=marioslazaro&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=marioslazaro&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=marioslazaro&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats-gv5l.vercel.app/api/top-langs/?username=marioslazaro&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=marioslazaro&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/devslazaro/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marioslazaro/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/hakanof) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/haka_dev) 
